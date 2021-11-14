@@ -24,9 +24,9 @@ IT HELP TO MANAGE US :-1.allocation of room to the,
 SrNo | Name | Year | Department| Section | Email id
 :--|:--|:--|:--|:--|:--|
 1 | GAUTAM BAGRI | 2nd |  Information Technology | A | gautambagri05@gmail.com
-2 | HARSH TALWAR | 2nd | Information Technology | A | harshtalwar25[main.txt](https://github.com/Gautam050402/Team-2-The-Fourtechians/files/7534353/main.txt)
-@gmail.com
+2 | HARSH TALWAR | 2nd | Information Technology | A | harshtalwar25@gmail.com
 3 | ARNAV CHAUHAN | 2nd |  Information Technology | A | arnavchauhan1@gmail.com
 4 | DHRUV SINGH| 2nd |  Information Technology | A | ds075156@gmail.com
 
 <br>
+[main.txt](https://github.com/Gautam050402/Team-2-The-Fourtechians/files/7534376/main.txt)
